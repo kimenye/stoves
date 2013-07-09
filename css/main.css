@@ -23,6 +23,11 @@ body {
     border: solid #c0c0c0;
 }
 
+.cart {
+    border: solid #c0c0c0;
+    margin: 0 5px;
+}
+
 nav {
     /*height: 40px;*/
     width: 100%;
