@@ -23,7 +23,7 @@
       <file leaf-file-name="stove_list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stove_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="141" column="57" selection-start="0" selection-end="17563" vertical-scroll-proportion="-5.625">
+            <state line="145" column="39" selection-start="5528" selection-end="5528" vertical-scroll-proportion="-10.0">
               <folding />
             </state>
           </provider>
@@ -38,10 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stove_summary.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="stove_summary.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stove_summary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="185" column="4" selection-start="5952" selection-end="5952" vertical-scroll-proportion="0.6467391">
+            <state line="155" column="10" selection-start="5093" selection-end="5205" vertical-scroll-proportion="-7.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stove_detail.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stove_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="150" column="43" selection-start="4590" selection-end="4590" vertical-scroll-proportion="0.33524904">
               <folding />
             </state>
           </provider>
@@ -71,15 +80,16 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/stove_summary.html" />
+        <option value="$PROJECT_DIR$/stove_detail.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="24" />
-    <option name="width" value="1317" />
-    <option name="height" value="744" />
+    <option name="x" value="55" />
+    <option name="y" value="33" />
+    <option name="width" value="1311" />
+    <option name="height" value="701" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -181,14 +191,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="24" width="1317" height="744" extended-state="6" />
+    <frame x="55" y="33" width="1311" height="701" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25414366" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25414366" sideWeight="0.671521" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -275,13 +285,6 @@
         <state line="1" column="5" selection-start="16" selection-end="16" vertical-scroll-proportion="0.025466893" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stove_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="57" selection-start="0" selection-end="17563" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="18" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
@@ -298,7 +301,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stove_summary.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="4" selection-start="5952" selection-end="5952" vertical-scroll-proportion="0.6467391">
+        <state line="155" column="10" selection-start="5093" selection-end="5205" vertical-scroll-proportion="-7.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stove_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="145" column="39" selection-start="5528" selection-end="5528" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stove_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="43" selection-start="4590" selection-end="4590" vertical-scroll-proportion="0.33524904">
           <folding />
         </state>
       </provider>
